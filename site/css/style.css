@@ -8017,6 +8017,9 @@ h2 + .big,
 	background: #fff;
 	text-align: center;
 }
+.Map-Soda{
+	flex: 1;
+}
 
 .pre-footer-corporate .footer-range-bordered > [class*='cell'] {
 	position: relative;
@@ -12677,6 +12680,9 @@ html:not(.ie-11):not(.ios) .parallax-disabled {
 
 .google-map-container {
 	width: 100%;
+  	margin: 0 auto;
+  	display: block;
+  	text-align: right;
 }
 
 .google-map {
