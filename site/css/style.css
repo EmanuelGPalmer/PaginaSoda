@@ -40,8 +40,7 @@
 *     2.14 jquery-circle-progress
 *     2.15 Timecircles
 **/
-/** @group Base */
-/** @section Reset Styles*/
+
 a:focus,
 
 button:focus {
@@ -6691,7 +6690,7 @@ html .group-bottom > *:first-child {
 }
 
 .context-dark .post-thin > * + *:before, .bg-accent .post-thin > * + *:before, .bg-gray-dark .post-thin > * + *:before, .bg-gray-darker .post-thin > * + *:before, .bg-gray-3 .post-thin > * + *:before {
-	border-color: rgba(255, 255, 255, 0.21);
+	border-color: rgba(255, 255, 255, 0.363);
 }
 
 .context-dark .post-thin .button-primary.button-effect-ujarak:hover, .bg-accent .post-thin .button-primary.button-effect-ujarak:hover, .bg-gray-dark .post-thin .button-primary.button-effect-ujarak:hover, .bg-gray-darker .post-thin .button-primary.button-effect-ujarak:hover, .bg-gray-3 .post-thin .button-primary.button-effect-ujarak:hover {
